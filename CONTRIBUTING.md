@@ -6,14 +6,7 @@ When contributing a major change to this repository, please first discuss the ch
 **Pull Requesting** will require you to ensure the change is certified via the 
 Please note we have a **CODE_OF_CONDUCT** please follow it in all your interactions with the project and its community.
 
-Coding Standards
+participate including a sync within collaboration and cooperation in Coding Standards, Programming Languages, Managing Dependencies, Pull Request Processes.
+be a ware of the Code of Conduct.
 
-Programming Languages
-
-Managing Dependencies
-
-Pull Request Process
-
-Code of Conduct
-
-Our Pledge
+Best regards and very welcome to you.
